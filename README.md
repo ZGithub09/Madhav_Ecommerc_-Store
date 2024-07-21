@@ -21,7 +21,7 @@ The owner of Madhav Store wants us to help them create a dashboard to track and 
 
 ### Project Insights:
 - Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), electronics (21%) and furniture (17%) (Printers, Bookcases, Sarees, etc).
-- The store generates the maximum profits from the months of January to April and November.
+- The store generates the maximum profits from the months of January, March, August and October.
 - The states of Maharashtra, Madhya Pradesh and Uttar Pradesh are the top 3 product buyers.
 - The customers, Harivansh, Madhav and Madan Mohan, are the top 3 product buyers.
 - Generally, the customers use the Cash on Delivery (44%) and UPI (21%) mode of payment.
